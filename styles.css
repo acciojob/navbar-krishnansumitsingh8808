@@ -14,11 +14,13 @@
 	
 }
 .item{
-	
 	display: flex;
-	
 	flex-basis:200px;
 	justify-content:space-between;
-	
 	flex-grow:0;
+}
+
+.container div{
+	border-right:2px;
+	border-right-color:black;
 }
